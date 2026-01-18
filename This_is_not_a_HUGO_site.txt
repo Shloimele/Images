@@ -1,0 +1,1 @@
+This IMAGES directory is just a holding repository in GitHub for storing image assets for use across different apps.
